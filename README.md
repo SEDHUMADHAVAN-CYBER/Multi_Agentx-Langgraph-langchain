@@ -6,6 +6,7 @@
 
 ---
 
+
 ## 🎯 **Demo Flow**
 User Query → 🧠 Planner → 🤝 Collaborator vs ⚔️ Competitor → 💬 Negotiator → 🏆 Judge
 
@@ -13,8 +14,7 @@ text
 
 **Live agents collaborate in real-time** to deliver optimal answers with reward scoring!
 
-## 🚀 **Live Demo**
-[🌐 Try the Demo](https://your-username-multi-agent-judge-demo.streamlit.app)
+
 
 ## 🎥 **Watch It Work**
 Type: "What is machine learning?"
